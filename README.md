@@ -15,6 +15,8 @@
 
 - ⚡ Gustos! : Entrenar al aire libre y helados son mis claves a tierra
 
+- :fire: Portfolio : https://ferrerfacundo-portfolio.netlify.app/
+
 <br>
 
 <h3 align="left">Contactame:</h3>
