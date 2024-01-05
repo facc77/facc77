@@ -56,11 +56,6 @@
 
 <br>
 
-<h3>Estadisticas :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=facc77&show_icons=true&locale=en&layout=compact"
-    alt="gonza ferrer" /></p>
-
 <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=facc77&show_icons=true&locale=en"
